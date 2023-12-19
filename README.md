@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NishCode17
+- 👋 Hi, I’m Nishant
 - 👀 I’m interested in ... developing, reading & working on open source!
-- 🌱 I’m currently learning ... java/c++
+- 🌱 I’m currently learning ... web-devlopment
 - 💞️ I’m looking to collaborate on ... gsoc!
 - 📫 How to reach me ... codejourney77@gmail.com
 

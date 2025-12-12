@@ -19,10 +19,9 @@ Currently, I’m focused on developing AI-powered tools, college-level platforms
 ---
 
 ## Current & Upcoming Projects  
-- **ChemistAI**: A De Novo Molecular Generation Software  
+- **SmartChemAI**: A De Novo Molecular Generation Platform  
 - **AI Interview Coach**: A GPT-powered mock interview assistant for behavioral & technical rounds  
-- **MindMate**: An AI chatbot for mental health support & journaling
-- **GeneSage**: DNA sequence-based disease prediction tool using bioinformatics & ML  
+
 
 ---
 

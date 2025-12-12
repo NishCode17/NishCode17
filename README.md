@@ -13,8 +13,6 @@ Currently, I’m focused on developing AI-powered tools, college-level platforms
 
 ## Currently Learning  
 - Advanced **LLM Integration**, **Prompt Engineering**, **RAG Pipelines**  
-- Full-stack SaaS architecture  
-- Scalable API design and MLOps best practices  
 
 ---
 

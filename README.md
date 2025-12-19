@@ -1,17 +1,17 @@
-Backend-focused CS undergrad building asynchronous ML systems with FastAPI, Node.js, and MongoDB.
+Final year CS undergrad making cool projects
 
 ---
 
 ### What I work on
-- Backend orchestration for ML workloads
-- Async job-based APIs and stateful workflows
-- ML inference systems that don’t block user-facing requests
+- Backend development and system design
+- Machine learning–based applications
+- End-to-end project building, from APIs to model integration
 
 ---
 
 ### Key Projects
-- **SmartChem AI** — De novo molecular generation system with backend-orchestrated async execution
-- **DeepTrace** — DeepTrace — Deepfake detection system for analyzing synthetic media
+- **SmartChem** — Exploratory ML project focused on targeted generation of novel molecular structures according to their drug-relevant chemical properties
+- **DeepTrace** — Media forensics system for analyzing video authenticity and detecting deepfake or synthetically manipulated content  
 
 ---
 
@@ -21,6 +21,7 @@ Backend-focused CS undergrad building asynchronous ML systems with FastAPI, Node
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=mlflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)

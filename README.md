@@ -10,8 +10,8 @@ Backend-focused CS undergrad building asynchronous ML systems with FastAPI, Node
 ---
 
 ### Key Projects
-- **SmartChem AI** — Backend-orchestrated system for de novo molecular generation and property optimization  
-- **DeepTrace** — Async deepfake detection backend with job lifecycle tracking
+- **SmartChem AI** — De novo molecular generation system with backend-orchestrated async execution
+- **DeepTrace** — DeepTrace — Deepfake detection system for analyzing synthetic media
 
 ---
 
